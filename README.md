@@ -2,6 +2,8 @@
 Benchmark基准测试技术研究
 
 
+![](https://i.imgur.com/qiNJUoL.png)
+
 <pre>
 微基准测试的使用场景：
 
